@@ -3,7 +3,7 @@
 it's an application where you can basically go out with friend to have dinner or lunch, and then you can split the bill using this application. So, here we have our list of friends and we can also add some other friends down here.
 
 
- ## Visit Now ==> 
+ ## Visit Now ==>  https://eat-n-split-iota-lyart.vercel.app/
 
 # Getting Started with Create React App
 
