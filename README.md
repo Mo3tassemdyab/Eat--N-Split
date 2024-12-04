@@ -10,6 +10,14 @@ it's an application where you can basically go out with friend to have dinner or
  1-
 ![eat1](https://github.com/user-attachments/assets/0ca1960e-0b85-4b2b-b2e1-300efdb452ad)
 
+2-
+![eat2](https://github.com/user-attachments/assets/8f551d8f-4975-4ae1-b0a0-bf47cd8de956)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
