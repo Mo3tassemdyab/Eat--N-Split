@@ -2,6 +2,9 @@
 # Eat-'N-Split
 it's an application where you can basically go out with friend to have dinner or lunch, and then you can split the bill using this application. So, here we have our list of friends and we can also add some other friends down here.
 
+
+ ## Visit Now ==> 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
