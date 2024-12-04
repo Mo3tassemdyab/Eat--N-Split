@@ -5,6 +5,8 @@ it's an application where you can basically go out with friend to have dinner or
 
  ## Visit Now ==>  https://eat-n-split-iota-lyart.vercel.app/
 
+ # ScreenShots
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
